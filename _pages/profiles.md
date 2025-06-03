@@ -14,13 +14,13 @@ profiles:
     content: about_matthew_fisher.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>"The Boss"</p>
+      <p>"Matthew Fisher"</p>
+      <p>"Professor of Fungal Disease Epidemiology"</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: harry_chown.jpg
+    content: about_harry_chown.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Harry Chown</p>
+      <p>Reseach Associate</p>
 ---
