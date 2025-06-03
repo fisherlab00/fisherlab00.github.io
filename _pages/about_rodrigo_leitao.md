@@ -1,0 +1,3 @@
+I am currently working on a NERC grant "Understanding the eco-evolutionary drivers of emerging antifungal resistance" where I am screening UK soils for the presence of fungicides by LC-MS analysis. 
+
+In addition, I am involved in the Wellcome Trust grant "Understanding and mitigating the impact of emerging antifungal resistance". During this project I have been responsible for collecting, preparing, processing, and storing clinical and environmental samples of Aspergillus fumigatus. As part of my role, I was also involved in preparing samples for whole genome sequencing and performing antifungal susceptibility testing.
