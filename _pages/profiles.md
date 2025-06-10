@@ -14,7 +14,7 @@ profiles:
     content: about_matthew_fisher.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Matthew Fisher</p>
+      <p>Matthew C. Fisher</p>
       <p>Professor of Fungal Disease Epidemiology</p>
   - align: left
     image: harry_chown.jpeg
@@ -24,12 +24,12 @@ profiles:
       <p>Harry Chown</p>
       <p>Research Associate</p>
   - align: right
-    image: matthew_fisher.jpg
-    content: about_matthew_fisher.md
+    image: alice_day.jpg
+    content: about_alice_day.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>"Alice Day"</p>
-      <p>"Postgraduate Researcher"</p>
+      <p>Alice Day</p>
+      <p>Postgraduate Researcher</p>
   - align: left
     image: harry_chown.jpeg
     content: about_harry_chown.md
