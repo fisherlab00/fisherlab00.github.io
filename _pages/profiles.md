@@ -45,8 +45,8 @@ profiles:
       <p>Rodrigo Leitao</p>
       <p>Research Assistant</p>  
   - align: left
-    image: harry_chown.jpeg
-    content: about_harry_chown.md
+    image: jiwon_jung.jpg
+    content: about_jiwon_jung.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Jiwon Jung</p>
