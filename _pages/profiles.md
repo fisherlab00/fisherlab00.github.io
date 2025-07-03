@@ -31,8 +31,8 @@ profiles:
       <p>Alice Day</p>
       <p>Postgraduate Researcher</p>
   - align: left
-    image: harry_chown.jpeg
-    content: about_harry_chown.md
+    image: samuel_hemmings.jpeg
+    content: about_samuel_hemmings.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Samuel Hemmings</p>
