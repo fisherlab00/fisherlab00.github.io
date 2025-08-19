@@ -20,11 +20,7 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  
 ---
 
 Professor Matthew Fisher leads research into the biology and evolution of emerging fungal pathogens. His team investigates how environmental change, human activity, and evolutionary processes are driving a global rise in fungal diseases affecting humans, wildlife, and plants.
